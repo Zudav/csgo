@@ -1,0 +1,1 @@
+Webscraper pulling statistics from hltv.org
