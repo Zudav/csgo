@@ -1,6 +1,7 @@
-Webscraper pulling statistics from hltv.org
+# CSGO-Statistics
+Analysis of csgo statistics pulled from [hltv](https://www.hltv.org/) using basic webscraping.
 
-# Required packages/libraries
+## Required packages/libraries
 * beautifulsoup4
 * lxml
 * requests
