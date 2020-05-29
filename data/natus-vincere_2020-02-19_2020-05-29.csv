@@ -1,0 +1,60 @@
+Date,Event,Map,Opponent_Name,Opponent_Score,Opponent_rnk_now,Outcome,Team_Name,Team_Score,Team_rnk_now
+2020-05-28,DreamHack Masters Spring 2020 - Europe,Dust2,ENCE,16,23,L,Natus Vincere,14,2
+2020-05-28,DreamHack Masters Spring 2020 - Europe,Train,ENCE,16,23,L,Natus Vincere,12,2
+2020-05-27,DreamHack Masters Spring 2020 - Europe,Overpass,Vitality,9,10,W,Natus Vincere,16,2
+2020-05-27,DreamHack Masters Spring 2020 - Europe,Dust2,Vitality,14,10,W,Natus Vincere,16,2
+2020-05-27,DreamHack Masters Spring 2020 - Europe,Nuke,Vitality,16,10,L,Natus Vincere,8,2
+2020-05-10,ESL One: Road to Rio - CIS,Dust2,Hard Legion,19,28,L,Natus Vincere,16,2
+2020-05-10,ESL One: Road to Rio - CIS,Overpass,Hard Legion,16,28,L,Natus Vincere,14,2
+2020-05-08,ESL One: Road to Rio - CIS,Train,Syman,16,36,L,Natus Vincere,12,2
+2020-05-08,ESL One: Road to Rio - CIS,Dust2,Syman,14,36,W,Natus Vincere,16,2
+2020-05-08,ESL One: Road to Rio - CIS,Overpass,Syman,16,36,L,Natus Vincere,4,2
+2020-05-06,ESL One: Road to Rio - CIS,Dust2,pro100,7,54,W,Natus Vincere,16,2
+2020-05-06,ESL One: Road to Rio - CIS,Inferno,pro100,10,54,W,Natus Vincere,16,2
+2020-05-03,ESL One: Road to Rio - CIS,Train,Virtus.pro,16,24,L,Natus Vincere,14,2
+2020-05-03,ESL One: Road to Rio - CIS,Inferno,Virtus.pro,16,24,L,Natus Vincere,13,2
+2020-05-01,ESL One: Road to Rio - CIS,Nuke,Espada,17,44,W,Natus Vincere,19,2
+2020-05-01,ESL One: Road to Rio - CIS,Inferno,Espada,7,44,W,Natus Vincere,16,2
+2020-04-09,ESL Pro League Season 11 Europe,Nuke,fnatic,16,3,L,Natus Vincere,9,2
+2020-04-09,ESL Pro League Season 11 Europe,Inferno,fnatic,16,3,L,Natus Vincere,13,2
+2020-04-08,ESL Pro League Season 11 Europe,Nuke,FaZe,13,7,W,Natus Vincere,16,2
+2020-04-08,ESL Pro League Season 11 Europe,Train,FaZe,13,7,W,Natus Vincere,16,2
+2020-04-08,ESL Pro League Season 11 Europe,Mirage,FaZe,16,7,L,Natus Vincere,12,2
+2020-04-07,ESL Pro League Season 11 Europe,Dust2,mousesports,16,4,L,Natus Vincere,9,2
+2020-04-07,ESL Pro League Season 11 Europe,Nuke,mousesports,16,4,L,Natus Vincere,11,2
+2020-04-06,ESL Pro League Season 11 Europe,Dust2,OG,13,17,W,Natus Vincere,16,2
+2020-04-06,ESL Pro League Season 11 Europe,Overpass,OG,12,17,W,Natus Vincere,16,2
+2020-04-06,ESL Pro League Season 11 Europe,Inferno,OG,16,17,L,Natus Vincere,7,2
+2020-04-05,ESL Pro League Season 11 Europe,Train,Astralis,8,1,W,Natus Vincere,16,2
+2020-04-05,ESL Pro League Season 11 Europe,Dust2,Astralis,10,1,W,Natus Vincere,16,2
+2020-04-05,ESL Pro League Season 11 Europe,Inferno,Astralis,16,1,L,Natus Vincere,5,2
+2020-03-24,ESL Pro League Season 11 Europe,Dust2,fnatic,11,3,W,Natus Vincere,16,2
+2020-03-24,ESL Pro League Season 11 Europe,Overpass,fnatic,10,3,W,Natus Vincere,16,2
+2020-03-23,ESL Pro League Season 11 Europe,Nuke,Complexity,12,19,W,Natus Vincere,16,2
+2020-03-23,ESL Pro League Season 11 Europe,Dust2,Complexity,8,19,W,Natus Vincere,16,2
+2020-03-23,ESL Pro League Season 11 Europe,Inferno,Complexity,16,19,L,Natus Vincere,14,2
+2020-03-21,ESL Pro League Season 11 Europe,Nuke,forZe,13,26,W,Natus Vincere,16,2
+2020-03-21,ESL Pro League Season 11 Europe,Train,forZe,17,26,W,Natus Vincere,19,2
+2020-03-21,ESL Pro League Season 11 Europe,Inferno,forZe,16,26,L,Natus Vincere,12,2
+2020-03-19,ESL Pro League Season 11 Europe,Dust2,BIG,22,21,L,Natus Vincere,20,2
+2020-03-19,ESL Pro League Season 11 Europe,Nuke,BIG,16,21,L,Natus Vincere,7,2
+2020-03-17,ESL Pro League Season 11 Europe,Dust2,North,16,25,L,Natus Vincere,10,2
+2020-03-17,ESL Pro League Season 11 Europe,Nuke,North,16,25,L,Natus Vincere,10,2
+2020-03-01,IEM Katowice 2020,Mirage,G2,2,5,W,Natus Vincere,16,2
+2020-03-01,IEM Katowice 2020,Dust2,G2,13,5,W,Natus Vincere,16,2
+2020-03-01,IEM Katowice 2020,Nuke,G2,4,5,W,Natus Vincere,16,2
+2020-02-29,IEM Katowice 2020,Nuke,Astralis,5,1,W,Natus Vincere,16,2
+2020-02-29,IEM Katowice 2020,Dust2,Astralis,5,1,W,Natus Vincere,16,2
+2020-02-28,IEM Katowice 2020,Mirage,Liquid,13,6,W,Natus Vincere,16,2
+2020-02-28,IEM Katowice 2020,Dust2,Liquid,11,6,W,Natus Vincere,16,2
+2020-02-27,IEM Katowice 2020,Inferno,FaZe,14,7,W,Natus Vincere,16,2
+2020-02-27,IEM Katowice 2020,Dust2,FaZe,6,7,W,Natus Vincere,16,2
+2020-02-27,IEM Katowice 2020,Nuke,FaZe,16,7,L,Natus Vincere,8,2
+2020-02-26,IEM Katowice 2020,Train,NiP,10,13,W,Natus Vincere,16,2
+2020-02-26,IEM Katowice 2020,Mirage,NiP,3,13,W,Natus Vincere,16,2
+2020-02-25,IEM Katowice 2020,Mirage,fnatic,16,3,L,Natus Vincere,12,2
+2020-02-25,IEM Katowice 2020,Inferno,fnatic,14,3,W,Natus Vincere,16,2
+2020-02-25,IEM Katowice 2020,Dust2,fnatic,16,3,L,Natus Vincere,7,2
+2020-02-24,IEM Katowice 2020,Overpass,FaZe,10,7,W,Natus Vincere,16,2
+2020-02-24,IEM Katowice 2020,Dust2,FaZe,14,7,W,Natus Vincere,16,2
+2020-02-24,IEM Katowice 2020,Nuke,FaZe,16,7,L,Natus Vincere,9,2
